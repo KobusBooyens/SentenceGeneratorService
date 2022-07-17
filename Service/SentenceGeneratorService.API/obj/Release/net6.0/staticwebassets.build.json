@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "V2th4fYV7VfUR9TTm5aHGWIdj7uW+Jt6EZrDszGPDiI=",
+  "Source": "SentenceGeneratorService.API",
+  "BasePath": "_content/SentenceGeneratorService.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
